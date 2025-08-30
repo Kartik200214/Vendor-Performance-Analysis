@@ -48,7 +48,18 @@ This project focuses on analyzing vendor performance based on sales data. It inv
 - Power BI Dashboard
 - Final insights PDF report
 
+---
+<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
+
+- Power BI Dashboard shows:
+  - Vendor-wise Sales and Margins
+  - Inventory Turnover
+  - Bulk Purchase Savings
+  - Performance Heatmaps
+
 ![Vendor Performance Dashboard](images/dashboard.png)
+
+---
 
 ## 📬 Contact
 For queries or collaboration, feel free to connect via [LinkedIn](https://www.linkedin.com/in/kartikkolhe/).
